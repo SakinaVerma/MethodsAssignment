@@ -1,4 +1,4 @@
-package methodAssignment;
+package methodassignment;
 
 import java.util.Scanner;
 
@@ -24,5 +24,7 @@ public class ProductOfTwoNumber {
 
         // Display result
         System.out.println("Product is: " + result);
+        sc.close();
     }
+
 }

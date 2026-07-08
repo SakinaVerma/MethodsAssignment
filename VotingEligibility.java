@@ -1,4 +1,4 @@
-package methodAssignment;
+package methodassignment;
 
 public class VotingEligibility {
 
